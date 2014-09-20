@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-Test Repo for the Data Science Introductory course in coursera
+**Test Repo for the Data Science introductory course in coursera
